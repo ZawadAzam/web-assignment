@@ -226,7 +226,7 @@
   }
   /*history page*/
   .history{
-    margin-left: 200px;
+    margin-left: 40px;
     margin-right: 200px;
     margin-top: 10ch;
 }
@@ -403,4 +403,7 @@ width: 100%;
 /* Thankyou*/
 .thankyou{
   margin-top: 20ch;
+}
+.his{
+  font-size: 1.5vw;
 }
